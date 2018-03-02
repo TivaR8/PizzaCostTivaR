@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\bin\Debug\PizzaCostTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\bin\Debug\PizzaCostTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\bin\Debug\PizzaCostTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\obj\Debug\PizzaCostTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\obj\Debug\PizzaCostTivaR.frmPizzaCost.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\obj\Debug\PizzaCostTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\obj\Debug\PizzaCostTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\obj\Debug\PizzaCostTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\PizzaCostTivaR\PizzaCostTivaR\obj\Debug\PizzaCostTivaR.pdb
